@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\bin\Debug\BAITAPBUOI5.exe.config
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\bin\Debug\BAITAPBUOI5.exe
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\bin\Debug\BAITAPBUOI5.pdb
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\obj\Debug\BAITAPBUOI5.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\obj\Debug\BAITAPBUOI5.Form1.resources
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\obj\Debug\BAITAPBUOI5.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\obj\Debug\BAITAPBUOI5.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\obj\Debug\BAITAPBUOI5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\obj\Debug\BAITAPBU.C9748CA0.Up2Date
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\obj\Debug\BAITAPBUOI5.exe
+C:\Users\Administrator\source\repos\BAITAPBUOI5\BAITAPBUOI5\obj\Debug\BAITAPBUOI5.pdb
